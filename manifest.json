@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Cuentas cat",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "CuenCat",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "description": "Una app para organizar tus gastos como un gato organiza sus siestas",
+  "id": "com.cuentcat.app"
+}
