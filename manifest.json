@@ -10,16 +10,4 @@
   "theme_color": "#000000",
   "description": "Una app para organizar tus gastos como un gato organiza sus siestas",
   "id": "com.cuentcat.app"
-  "icons": [
-    {
-      "src": "icon.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
 }
